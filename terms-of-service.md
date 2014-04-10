@@ -106,7 +106,7 @@ veênte will pay Net 45. Via Paypal, unless notified otherwise by veênte.
 
 Minimum payment amount is 10.00 USD. If the balance is less, veênte will add any unpaid amounts to the next payment which meets the Minimum payment threshold.
 
-The publisher is responsible to fill in valid and complete payment details in veênte at http://seller.veente.com
+The publisher is responsible to fill in valid and complete payment details in veênte at [seller.veente.com](http://seller.veente.com).
 
 The publisher is responsible for completing all necesary information to apply to the Payment Process at least 30 days prior to the Payment Date. Any missing information after this date, will move the Payment to the next payment cycle.
 
